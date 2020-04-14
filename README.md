@@ -1,5 +1,7 @@
 # Spotify Manipulation with Python; can a Data Scientist Replace a DJ?
 
+[Originally published on Medium via the Towards Data Science [publication](https://towardsdatascience.com/can-a-data-scientist-replace-a-dj-spotify-manipulation-with-python-fbbd4a45ffd5)]
+
 ## Introduction
 Data Science is vast and continuously expands into new industries, offering a multitude of valuable (corporate mainly) applications. The music industry is one of them. Should we treat any of those applications like a "black box", we would observe an input (data) and an output (product).
 
