@@ -32,4 +32,8 @@ We make requests to the Spotify API for data collection, using the free Python l
 ## Additional Analysis
 There is quite a number of additional analyses to be performed, expanding this one. You are welcome to extend and shape yours in any direction you may prefer. For instance, you can additionally try and remove the tracks that have significantly low `danceability` and `valence` audio features, and boost even more the playlist's `score`. Furthemore, you can apply each approach sequentially (on the dataframe that is produced each time).
 
+## Authors and Acknowledgement
 [*It stands as an independent analysis in an effort to enhance my ability to communicate results, reason about data statistically and stay motivated to continuously implement newly aquired skills & capabilities, so as to enrich my portfolio of data science-oriented projects*]
+- [@makispl](https://github.com/makispl) for concept & implementation.
+- [@MPlegas](https://twitter.com/MPlegas) Twitter
+- [@gerasimos_plegas](https://medium.com/@gerasimos_plegas) Medium
